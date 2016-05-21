@@ -133,6 +133,7 @@ namespace MapFormatPainter
 
         #endregion
 
+        //组件的定义
         private System.Windows.Forms.Panel toolbarPanel;
         private System.Windows.Forms.Panel editPanel;
         private System.Windows.Forms.Panel toolsPanel;
