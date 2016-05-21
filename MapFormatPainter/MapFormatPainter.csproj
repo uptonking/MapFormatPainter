@@ -225,7 +225,6 @@
     <Folder Include="tests" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="README.md" />
     <Content Include="tests\Form2.resx" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
