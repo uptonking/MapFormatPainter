@@ -39,7 +39,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(244, 33);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Hi, this is Form 2!";
+            this.label1.Text = "Hi, this is Form 2 from MapFormatPainter!";
             // 
             // Form2
             // 
