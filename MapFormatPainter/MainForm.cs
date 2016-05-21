@@ -16,7 +16,8 @@ namespace MapFormatPainter
             InitializeComponent();
         }
 
-      //打开新窗体Form2
+
+      //点击按钮，打开新窗体Form2
        private void startForm2BtnClick(object sender, EventArgs e)
               {
                   Form2 f2 = new Form2();
